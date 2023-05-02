@@ -1,0 +1,8 @@
+.contatiner {
+	width: 702px;
+	margin: 0 auto;
+}
+
+ul > li {
+	background-color: gray;
+}
